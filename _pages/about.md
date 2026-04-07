@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at the Georgia Institute of Technology. While I have a broad interest in semiconductor device physics and electronic materials, my current research focuses on the **electronic structure of impurity bands and charge transport in ultra-wide bandgap semiconductors**. I currently work as a Graduate Research Assistant at the School of Electrical and Computer Engineering, under the supervision of [Dr. P. Douglas Yoder](https://scholar.google.com/citations?user=RiLHPksAAAAJ&hl=en&oi=ao).
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at the Georgia Institute of Technology. While I have a broad interest in semiconductor device physics and electronic materials, my current research focuses on the **electronic structure of impurity bands and charge transport in ultrawide bandgap semiconductors**. I currently work as a Graduate Research Assistant at the School of Electrical and Computer Engineering, under the supervision of [Dr. P. Douglas Yoder](https://scholar.google.com/citations?user=RiLHPksAAAAJ&hl=en&oi=ao).
 
-My research interests span semiconductor physics, device modeling, and electronic materials, with a present emphasis on ultra-wide bandgap materials and their potential for next-generation power and optoelectronic devices. During my earlier academic journey, I also explored renewable energy generation, nanophotonics, and photochemistry, which led to multiple journal publications, including articles in *Heliyon*, the *International Journal of Hydrogen Energy*, and *Advanced Energy Materials*.
+My research interests span semiconductor physics, device modeling, and electronic materials, with a present emphasis on ultrawide bandgap materials and their potential for next-generation power and optoelectronic devices. During my earlier academic journey, I also explored renewable energy generation, nanophotonics, and photochemistry, which led to multiple journal publications, including articles in *Heliyon*, the *International Journal of Hydrogen Energy*, *Advanced Energy Materials* and *AIP Advances*.
 
 Please feel free to reach out if you would like to learn more about my research, discuss semiconductor device physics, or explore opportunities for collaboration.
 

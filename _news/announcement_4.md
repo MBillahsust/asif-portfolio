@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A new reseach article of mine titled “Impurity band formation in doped AlN: A Green’s function approach” has been accepted and published in AIP Advances. Have a read if you are interested. It is in the publication section.
+A new reseach article of mine titled “Impurity band formation in doped AlN: A Green’s function approach” has been accepted and published in AIP Advances. Have a read if you are interested. It is in the publications section.
